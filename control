@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.nobuttonswhenplaying
+Name: NoButtonsWhenPlaying
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide Quick Actions Buttons when Playing Music!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: mobilesubstrate
